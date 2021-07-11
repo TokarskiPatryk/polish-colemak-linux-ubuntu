@@ -4,7 +4,7 @@
 
 #### Aby mieć polskie znaki musisz:
 
-    git clone && cd polish-colemak-linux-ubuntu
+    git clone https://github.com/TokarskiPatryk/polish-colemak-linux-ubuntu.git && cd polish-colemak-linux-ubuntu
     
 zamienić plik /usr/share/X11/xkb/symbols/us na ten z repo
     
